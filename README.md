@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm alongthecloud</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I’m interested in making app, programming and gaming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alongthecloud&label=Profile%20views&color=0e75b6&style=flat" alt="alongthecloud" /> </p>
